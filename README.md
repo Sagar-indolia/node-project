@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/ishandeveloper/Node-Blog.svg)](http://hits.dwyl.com/ishandeveloper/Node-Blog)
+
 
 <img src="https://github.com/ishandeveloper/Node-Blog/blob/master/Screenshots/compose.gif?raw=false" width="100%">
 
@@ -77,10 +77,6 @@ git checkout development
 ```terminal
 git push -u origin development
 ```
-
-**8.** Create a Pull Request!
-
-**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Node Blog](https://github.com/ishandeveloper/Node-Blog) project.
 
 
 ## Tasks and Features

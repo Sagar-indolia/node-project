@@ -1,7 +1,5 @@
 
 
-<img src="https://github.com/ishandeveloper/Node-Blog/blob/master/Screenshots/compose.gif?raw=false" width="100%">
-
 # Node Blog
 A fully fledged open source blog publishing application, built with ♥ using Node.js
 
@@ -91,7 +89,3 @@ git push -u origin development
 * Analyze further design requirements and integrate them into the web app.
 
 
-##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
